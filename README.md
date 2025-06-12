@@ -44,7 +44,9 @@ This project is a visually rich 3D scene built with **Three.js**, featuring:
 
 ├── src/
 
-│ └── index.js # Main Three.js scene setup
+│ └── main.js # Main Three.js scene setup
+
+├── index.html
 
 ├── package.json
 
