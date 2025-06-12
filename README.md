@@ -12,7 +12,7 @@ This project is a visually rich 3D scene built with **Three.js**, featuring:
 - Pink border around the 3D text for a bold, cyber look
 - Spotlights, fog, and animated GLTF model integration
 
-![screenshot](preview.png) <!-- optional, replace with your actual preview -->
+![screenshot](screenshot.png) 
 
 ---
 
