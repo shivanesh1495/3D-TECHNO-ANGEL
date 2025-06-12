@@ -31,13 +31,22 @@ This project is a visually rich 3D scene built with **Three.js**, featuring:
 ## 📁 Project Structure
 
 ├── public/
+
 │ ├── wall.png # Wall texture image
+
 │ ├── fonts/
+
 │ │ └── Mechline.otf # Custom techno font
+
 │ └── models/
+
 │ └── myModel.glb # GLTF model
+
 ├── src/
+
 │ └── index.js # Main Three.js scene setup
+
 ├── package.json
+
 └── README.md
 
